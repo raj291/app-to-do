@@ -1,0 +1,19 @@
+@layer base{
+  html{
+    font-family: sans-serif;
+
+  }
+  body{
+    background-color: aliceblue;
+    overflow-x: hidden;
+
+  }
+}
+
+@layer components{
+
+}
+
+.text-error{
+  color:red;
+}

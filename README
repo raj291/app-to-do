@@ -1,0 +1,22 @@
+### To do List with User authentication###
+Frontend Framework : React 
+CSS Framework : Material UI
+Backend Framework : Node Express.js
+Database : MongoDB
+Authentication: JsonWebToken
+
+To Run the Application : 
+terminal commands : { 
+    git clone {Link},
+    npm install ,
+    cd to-do-list,
+    npm start,
+    cd backend,
+    npm start }
+
+ISSUE/BROKEN CODE
+Not able to intergrate the EDIT_API to edit notes the way it is suppose to. Did a work around but not accurate. But will not cause any ERROR will running the code unless if there are any npm packages missing.
+
+
+Back-end Port Listening to : Localhost:8000
+Front-end Port Can Vary upto the machine.
