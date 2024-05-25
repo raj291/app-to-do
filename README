@@ -4,7 +4,7 @@ CSS Framework : Material UI
 Backend Framework : Node Express.js
 Database : MongoDB
 Authentication: JsonWebToken
-Web site : http://localhost:3000
+Web site Local : http://localhost:3000
 To Run the Application : 
 terminal commands : { 
     git clone {Link},
@@ -19,4 +19,4 @@ Not able to intergrate the EDIT_API to edit notes the way it is suppose to. Did 
 
 
 Back-end Port Listening to : Localhost:8000
-Front-end Port Can Vary upto the machine.
+
